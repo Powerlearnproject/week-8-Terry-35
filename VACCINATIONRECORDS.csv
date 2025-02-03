@@ -1,0 +1,6 @@
+record_id,community_id,demographic_id,vaccine_id,date_administered,doses_administered
+1,1,1,1,2024-01-15,500
+2,1,2,1,2024-01-15,700
+3,1,1,2,2024-02-15,300
+4,2,3,1,2024-01-20,600
+5,2,4,2,2024-03-10,200
